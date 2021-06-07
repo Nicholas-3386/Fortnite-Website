@@ -1,0 +1,15 @@
+p,h1,h2{
+color:blueviolet;
+font-family: fantasy;
+font-size: 25px;
+ text-align: center;
+padding-left: 100px;
+padding-right: 100px
+}
+
+p {
+  color:whitesmoke;
+}
+body{
+   background-color: black  ;
+}
